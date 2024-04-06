@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(
+    180deg,
+    rgba(231, 214, 156, 1) 0%,
+    rgba(204, 130, 228, 1) 100%
+  );
+}
